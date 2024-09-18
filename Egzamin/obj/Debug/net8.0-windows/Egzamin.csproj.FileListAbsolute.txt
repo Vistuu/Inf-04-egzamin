@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\bin\Debug\net8.0-windows\Egzamin.exe
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\bin\Debug\net8.0-windows\Egzamin.deps.json
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\bin\Debug\net8.0-windows\Egzamin.runtimeconfig.json
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\bin\Debug\net8.0-windows\Egzamin.dll
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\bin\Debug\net8.0-windows\Egzamin.pdb
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin_MarkupCompile.cache
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin_MarkupCompile.lref
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.g.resources
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.AssemblyInfo.cs
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.dll
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\refint\Egzamin.dll
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.pdb
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\Egzamin.genruntimeconfig.cache
+C:\Users\user\Desktop\xd\xd1\Egzamin\Egzamin\obj\Debug\net8.0-windows\ref\Egzamin.dll
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\bin\Debug\net8.0-windows\Egzamin.exe
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\bin\Debug\net8.0-windows\Egzamin.deps.json
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\bin\Debug\net8.0-windows\Egzamin.runtimeconfig.json
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\bin\Debug\net8.0-windows\Egzamin.dll
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\bin\Debug\net8.0-windows\Egzamin.pdb
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin_MarkupCompile.cache
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin_MarkupCompile.lref
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.g.resources
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.AssemblyInfo.cs
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.dll
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\refint\Egzamin.dll
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.pdb
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\Egzamin.genruntimeconfig.cache
+C:\Users\user\Desktop\inf 04\inf 04\Egzamin\obj\Debug\net8.0-windows\ref\Egzamin.dll
